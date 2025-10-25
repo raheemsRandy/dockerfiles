@@ -1,4 +1,5 @@
 FROM almalinux:9
 LABEL COURSE="Devops" \
       TRAINER="Sivalumar" \
-      DURATION="120hrs"
+      DURATION="120hrs"- \
+      com.joindevops.dockerfiles.author="raheemweb.fun"
